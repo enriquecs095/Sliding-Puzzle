@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/SlidingPuzzle.dir/TextConsole/TextConsole.cpp.o CMakeFiles/SlidingPuzzle.dir/Game/SlidingPuzzle.cpp.o CMakeFiles/SlidingPuzzle.dir/Game/Main.cpp.o  -o SlidingPuzzle -lSDL2 -lpthread -static-libgcc -static-libstdc++ 
